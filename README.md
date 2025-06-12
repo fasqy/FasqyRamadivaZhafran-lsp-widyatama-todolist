@@ -1,4 +1,3 @@
-# FasqyRamadivaZhafran-lsp-widyatama-todolist
 # todolist
 ##Deskripsi
 Aplikasi Sederhana berbasis PHP menggunakan Laravel untuk mencatat tugas Harian.
